@@ -1,5 +1,11 @@
+<img src="https://raw.githubusercontent.com/FreeSolDev/FreeSolDev/main/assets/avatar.jpg" width="128" align="right" alt="FreeSolDev" />
+
 # FreeSolDev
 
-Building on Solana. Contributing to open-source agent frameworks.
+Indie game developer · Solana builder
+
+- **コアコントリビューター** at [ProofNetwork](https://github.com/proofnetworks) — building vanilla, data-driven front ends and on-chain games.
+- 🏆 **Privacy Cash hackathon winner** ([announcement](https://x.com/theprivacycash/status/2022522947580366865)) for creating **[Avina.fun](https://avina.fun)**, a privacy-focused app powered by ProofNetwork.
+- 🏆 **Winner of the first-ever Meteora Ecosystem Vibe hackathon** ([announcement](https://x.com/MeteoraEco/status/2028537108038922427)) for **Farmer 8** — an agent built on top of Llama 4 Scout that automatically finds Meteora pools to DLMM into.
 
 <!-- gitarmy-wallet:v1 {"chain":"solana","address":"EU8ZXW65rMfw8o7py5kzahJiGqh8Dh9uaGcMAysu3hXi"} -->
